@@ -1,1 +1,1 @@
-# Information-Retrieval-System
+# SEARCH ENGINE : Document Retrieval with respect to Query
